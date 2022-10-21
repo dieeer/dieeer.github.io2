@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f3d8bfe9-46fd-45e8-9292-2ca6f33c3edc/appservices/subscriptions/f3d8bfe9-46fd-45e8-9292-2ca6f33c3edc/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/justin-portfolio",
+    "appService.deploySubpath": "."
+}
